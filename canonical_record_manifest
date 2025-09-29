@@ -1,0 +1,41 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{courier}
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{center}
+\Large \textbf{Canonical Record Manifest} \\[1em]
+\end{center}
+
+\noindent
+\textbf{File:} A\_Terminal\_Idempotent\_Framework\_for\_Universal\_Invariance.pdf \\
+\textbf{SHA-256:} e286bcc1b6dbc2dc8661fb449aad66c3538b809426848cc61320649e6d33a56c \\
+\textbf{Timestamp (UTC):} 2025-09-28T20:00:00Z \\
+
+\vspace{1em}
+\noindent
+\textbf{Description:} \\
+This manifest anchors the canonical record \emph{A Terminal Idempotent Framework for Universal Invariance}. 
+The listed SHA-256 hash is the cryptographic fingerprint of the frozen PDF. 
+Any change to the file (even one character) will yield a different hash. \\
+
+\vspace{1em}
+\noindent
+\textbf{Verification:}
+\begin{enumerate}
+    \item Import the public key (\texttt{breezon-publickey.asc}).
+    \item Verify the signature: \\
+    \texttt{gpg --verify canonical\_record\_manifest.txt.asc canonical\_record\_manifest.txt}
+    \item Recompute the hash of the PDF and confirm it matches the SHA-256 value above: \\
+    \texttt{shasum -a 256 A\_Terminal\_Idempotent\_Framework\_for\_Universal\_Invariance.pdf}
+\end{enumerate}
+
+\vspace{1em}
+\noindent
+\textbf{Declaration:} \\
+This manifest and its detached signature establish the forensic integrity of the canonical record.  
+
+\end{document}
