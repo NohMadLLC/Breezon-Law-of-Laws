@@ -1,0 +1,2 @@
+Lmax,N,S_orig,W_list,engine,jitter_points,kmax,null_M,perm_R,perm_collapse_rate,perm_pvalue,runtime_sec,sampling_matched,source_path,source_sha256,surr_S,surr_fp_rate,tail_rotation_stable_frac
+256,1000000,0.0005516533236633037,2|4|8,SGCE_NF,0.0:0.000552;0.001:0.001545;0.005:0.001499;0.01:0.002865,8,,200,1.0,0.0,3655.304,False,.\qrng\anu_qrng_1M.csv,a8122916aa0740e3323bcd9ab48173d15f0d7da39b081599061ff4c545a52b33,200,0.0,0.25

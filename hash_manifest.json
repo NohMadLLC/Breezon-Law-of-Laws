@@ -1,0 +1,93 @@
+{
+  "schema": "sha256-manifest-v1",
+  "created_utc": "2025-10-01T14:50:24Z",
+  "root": "E:/Breezons_Law_of_Laws/Breezon_Law_of_Laws_Evidence_Package_v1.0/Misc. Evidence/data/results",
+  "file_count": 17,
+  "files": [
+    {
+      "path": "anu_env.json",
+      "bytes": 341,
+      "sha256": "b80f833d8f78c29558a63fc60e11d6f0fc8481615b2c544c7cd1df0dd7fc0c10"
+    },
+    {
+      "path": "anu_full.csv",
+      "bytes": 529,
+      "sha256": "cb553eb8183c562d5ba7d5b0cfaff0a46c18a6a29391d2969df9390e8ac6e51d"
+    },
+    {
+      "path": "anu_full.json",
+      "bytes": 8450,
+      "sha256": "6a3fddc8511723699d1ff85170fce4a21f4292349e16cf2d1fa48379e8d9fd02"
+    },
+    {
+      "path": "anu_nf.csv",
+      "bytes": 431,
+      "sha256": "27cd18682ebceecda3ba7337c15ae1a764c7c0da0c33413343f322d188793274"
+    },
+    {
+      "path": "anu_nf.json",
+      "bytes": 9386,
+      "sha256": "b142da224f285d01279369b9eb62a36624c7fa77fe6118e5c06985176daf580c"
+    },
+    {
+      "path": "env.json",
+      "bytes": 341,
+      "sha256": "b80f833d8f78c29558a63fc60e11d6f0fc8481615b2c544c7cd1df0dd7fc0c10"
+    },
+    {
+      "path": "env_nf.json",
+      "bytes": 332,
+      "sha256": "2d04737376f17e764ed4098252765e1378df5e4c16f831ec41cadbf917862f34"
+    },
+    {
+      "path": "hash_manifest.json",
+      "bytes": 2492,
+      "sha256": "6161a71e32b3afee4a8c83e487cff38bd0109e9c9e0256ae3327cd74b5822445"
+    },
+    {
+      "path": "hash_manifest_chain.json",
+      "bytes": 188,
+      "sha256": "a776615e122d92d59520ecc24bb384d16228b1e6436e60e106d80c19c637989c"
+    },
+    {
+      "path": "idq_full.csv",
+      "bytes": 530,
+      "sha256": "f78c28db87a3abf88cc1ff6d60193a043e7236c740ff5a8645bbc522ad016cfb"
+    },
+    {
+      "path": "idq_full.json",
+      "bytes": 8456,
+      "sha256": "ac4719dcf420d92821cf7813111128ea1a74937d4320874bdf54f8ee58dd2553"
+    },
+    {
+      "path": "idq_nf.csv",
+      "bytes": 421,
+      "sha256": "89fc5cf7c62ce4d1a205011a92267be1a90c22f9fc4f1a1dd4b3965c3361bd29"
+    },
+    {
+      "path": "idq_nf.json",
+      "bytes": 9359,
+      "sha256": "20e32a75bfeb488e69ba8c414fbebf81aa11be2a67bf719f240d1fb7fad0488f"
+    },
+    {
+      "path": "nist_full.csv",
+      "bytes": 528,
+      "sha256": "7d2ada9962fa16c7f4bea11f6b8f860415d31d6ad8d805f41a72b9191fd2d33a"
+    },
+    {
+      "path": "nist_full.json",
+      "bytes": 8390,
+      "sha256": "b4949929edbd66031953d7d41eafdf0269c5a092bb6285b776c48b5eb9154c88"
+    },
+    {
+      "path": "nist_nf.csv",
+      "bytes": 433,
+      "sha256": "78a3905b36da692461084ebf1d797d596fde43510b9f62f06e983ad26c3800ee"
+    },
+    {
+      "path": "nist_nf.json",
+      "bytes": 9317,
+      "sha256": "ce2bdccb98ec20f210d464d880ba5e77e04a951f8a558de614cbabe02b8dd4af"
+    }
+  ]
+}

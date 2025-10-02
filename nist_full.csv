@@ -1,0 +1,2 @@
+Lmax,N,W_list,endianness_lsb_stable,endianness_msb_stable,engine_version,jitter_curve,kmax,null_M,perm_R,perm_collapse_rate,perm_pvalue,runtime_sec,sampling_matched,source_path,source_sha256,stab_score,stable_original,surr_S,surr_fp_rate,tail_rotation_stable_frac,tau_H,tau_bits,tau_sf,tau_w1
+256,1000000,2|4|8,,,3.2,0.0:1;0.001:1;0.005:1;0.01:1,8,,200,0.915,0.0,3640.943,False,.\qrng\nist_qrng_1M.csv,fc1f8c318f15cf4c8e12f95d98b330876998bf17b103ef871d337b6495c86659,-0.9640000000000195,True,200,0.0,1.0,0.008,0.002,0.01,0.01

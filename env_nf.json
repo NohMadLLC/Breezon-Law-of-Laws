@@ -1,0 +1,10 @@
+{
+  "python_version": "3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "numpy_version": "2.3.1",
+  "fft_impl": "numpy.fft",
+  "env_vars_subset": {},
+  "numpy_config": {
+    "error": "module 'numpy.__config__' has no attribute 'get_info'"
+  }
+}

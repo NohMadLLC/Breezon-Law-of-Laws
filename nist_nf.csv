@@ -1,0 +1,2 @@
+Lmax,N,S_orig,W_list,engine,jitter_points,kmax,null_M,perm_R,perm_collapse_rate,perm_pvalue,runtime_sec,sampling_matched,source_path,source_sha256,surr_S,surr_fp_rate,tail_rotation_stable_frac
+256,1000000,0.00013797593882713954,2|4|8,SGCE_NF,0.0:0.000138;0.001:0.004170;0.005:0.006333;0.01:0.007581,8,,200,1.0,0.0,3733.677,False,.\qrng\nist_qrng_1M.csv,fc1f8c318f15cf4c8e12f95d98b330876998bf17b103ef871d337b6495c86659,200,0.0,0.25
