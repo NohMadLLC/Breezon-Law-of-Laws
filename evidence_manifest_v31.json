@@ -1,0 +1,31 @@
+{
+  "seed": 369,
+  "rel_tol": 0.05,
+  "n_boot": 1000,
+  "artifacts": [
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/mode_runner_results_v31.csv",
+      "sha256": "337758538ed88a392533e3a73ecba797c204b39961a311c6e055d56d96df38f1"
+    },
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/runs/seq/originals/seq_ar1_v31.csv",
+      "sha256": "98a5148eb945ddd54eb7ece57ba7543286922d8184c59c751f3133837d1b5d02"
+    },
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/runs/exch/originals/exch_studentt_v31.csv",
+      "sha256": "9c588c117c217be4ed868f2ed1ae5b8446123c95dc3ae69f1925767a8a9509c6"
+    },
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/runs/rev/originals/rev_osc_v31.csv",
+      "sha256": "7e9c3c08a6f15e8958ae4a9c940c93febf6c4fd2226d8c3242a18f8aa6878fdc"
+    },
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/runs/sim/originals/sim_majority_v31.csv",
+      "sha256": "b81b6453f789d858af0754f9dbea0eb711c4274772875c8a8d681c54288ff9e8"
+    },
+    {
+      "path": "/mnt/data/mode_complete_edge_tests_v31/runs/glob/originals/glob_meanfield_v31.csv",
+      "sha256": "56851de4798dcff1c1b6ac8af94fa99bd92308d0ec717b5c8a5071771c3a0622"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+mode,invariant,orig,orig_CI_lo,orig_CI_hi,perm,block,pass_own,fail_non,mu_orig,var_orig,mu_perm,var_perm,mu_bag,var_bag,mu_mix,var_mix,std_orig,std_time_rev,std_symp_break,eq_mean_orig,eq_mean_shuffle,eq_mean_payoff_alter,eqA_orig,eqA_local_preserve,eqA_aggregate_destroy
+seq,acf1,0.7855835414430091,-0.03209827128231782,0.03146000016025301,0.0004512675249471032,0.7662942501223482,False,False,,,,,,,,,,,,,,,,,
+exch,"mean,var",,,,,,True,True,-0.041461714031274154,1.7857626952702204,-0.04146171403127415,1.7857626952702204,-0.030690098498698838,1.8221355937927286,0.20853828596872587,1.838762034326754,,,,,,,,,
+rev,energy_std,,,,,,True,True,,,,,,,,,4.421194860990424e-06,4.421194860990424e-06,0.02317861250056656,,,,,,
+sim,eq_mean_density,,,,,,True,False,,,,,,,,,,,,0.4966130952380952,0.4966130952380952,0.49267857142857147,,,
+glob,equilibrium_A,,,,,,True,False,,,,,,,,,,,,,,,0.49986392857142853,0.49986392857142853,0.5002632807941138
