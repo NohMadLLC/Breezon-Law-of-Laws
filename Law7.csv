@@ -1,0 +1,8 @@
+Domain,Hurst (Original),Autocorr (Original),Hurst (Permuted),Autocorr (Permuted),Verdict
+Physics (Logistic Map),0.355,-0.505,0.554,-0.017,Collapse
+Biology (Wright-Fisher),0.845,0.993,0.535,0.014,Collapse
+Computation (Rule 30),0.879,0.986,0.541,-0.049,Collapse
+Logic/Math (Grammar Expansion),0.803,0.989,0.513,-0.021,Collapse
+Language (Balanced Parentheses),0.888,0.998,0.506,0.014,Collapse
+Economics (Wealth Exchange),0.853,0.993,0.495,0.032,Collapse
+Psychology (Hopfield Network),0.849,0.987,0.525,-0.007,Collapse
